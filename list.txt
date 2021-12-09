@@ -1,5 +1,5 @@
 {
   "Lesha_Live": "Did not deserved",
-  "Vlad_Farmer": "Aurora_Alferova",
+  "Lesha_Live": "Aurora_Alferova",
   "Lesha_Live": "Aurora_Alferova"
 }
